@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|d:\\n\u0103m 3 (hk2)\\l\u1EADp tr\u00ECnh web aspx\\quanlysach\\quanlysach\\quanlysach\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\user\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:user\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\qfqldanhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\qfqldanhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\qfqldanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\qfqldanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\themdanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\themdanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\wfqlsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\wfqlsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\wfqlsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\wfqlsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\themsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\themsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\themsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\themsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\suasanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\suasanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\suasanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\suasanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\xemdonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\xemdonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\xemdonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\xemdonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\wfqldonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\wfqldonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\wfqldonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\wfqldonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\themnguoidung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\themnguoidung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\themnguoidung.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\themnguoidung.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\suanguoidung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\suanguoidung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\suanguoidung.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\suanguoidung.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\suadanhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\suadanhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\suadanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\suadanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\themdanhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\themdanhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\wfqltrangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\wfqltrangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\webadmin\\wfqltrangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAEDB5-91E0-455D-99FC-F11502B1A6BF}|QuanLySach.csproj|solutionrelative:webadmin\\wfqltrangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1104,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\Category.aspx",
+              "RelativeDocumentMoniker": "Category.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\Category.aspx",
+              "RelativeToolTip": "Category.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T15:07:17.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.Master",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\User\\Index.Master",
+              "RelativeDocumentMoniker": "User\\Index.Master",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\User\\Index.Master",
+              "RelativeToolTip": "User\\Index.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T15:07:00.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\Index.aspx",
+              "RelativeDocumentMoniker": "Index.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\Index.aspx",
+              "RelativeToolTip": "Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T15:06:47.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-31T04:27:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WFQLSanPham.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLSanPham.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\WFQLSanPham.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLSanPham.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\WFQLSanPham.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:21:42.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThemDanhmuc.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemDanhmuc.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\ThemDanhmuc.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemDanhmuc.aspx",
+              "RelativeToolTip": "WebAdmin\\ThemDanhmuc.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:07:27.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QFQLDanhmuc.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\QFQLDanhmuc.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\QFQLDanhmuc.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\QFQLDanhmuc.aspx",
+              "RelativeToolTip": "WebAdmin\\QFQLDanhmuc.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T03:57:17.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QFQLDanhmuc.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\QFQLDanhmuc.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\QFQLDanhmuc.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\QFQLDanhmuc.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\QFQLDanhmuc.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:06:51.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WFQLSanPham.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLSanPham.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\WFQLSanPham.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLSanPham.aspx",
+              "RelativeToolTip": "WebAdmin\\WFQLSanPham.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:20:47.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThemSanpham.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemSanpham.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\ThemSanpham.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemSanpham.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\ThemSanpham.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:19:36.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThemSanpham.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemSanpham.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\ThemSanpham.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemSanpham.aspx",
+              "RelativeToolTip": "WebAdmin\\ThemSanpham.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:19:23.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuaSanPham.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaSanPham.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\SuaSanPham.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaSanPham.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\SuaSanPham.aspx.cs",
+              "ViewState": "AQIAACYAAAAAmpmZmZkrwE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:18:26.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SuaSanPham.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaSanPham.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\SuaSanPham.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaSanPham.aspx",
+              "RelativeToolTip": "WebAdmin\\SuaSanPham.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:17:48.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XemDonhang.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\XemDonhang.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\XemDonhang.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\XemDonhang.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\XemDonhang.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:17:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XemDonhang.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\XemDonhang.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\XemDonhang.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\XemDonhang.aspx",
+              "RelativeToolTip": "WebAdmin\\XemDonhang.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:17:13.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WFQLDonhang.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLDonhang.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\WFQLDonhang.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLDonhang.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\WFQLDonhang.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAkJmZmZnRvzUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:16:59.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WFQLDonhang.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLDonhang.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\WFQLDonhang.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLDonhang.aspx",
+              "RelativeToolTip": "WebAdmin\\WFQLDonhang.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:16:54.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThemNguoidung.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemNguoidung.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\ThemNguoidung.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemNguoidung.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\ThemNguoidung.aspx.cs",
+              "ViewState": "AQIAACUAAACAyMzMzMwQwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:15:29.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThemNguoidung.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemNguoidung.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\ThemNguoidung.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemNguoidung.aspx",
+              "RelativeToolTip": "WebAdmin\\ThemNguoidung.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:15:24.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SuaNguoiDung.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaNguoiDung.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\SuaNguoiDung.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaNguoiDung.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\SuaNguoiDung.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:13:28.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SuaNguoiDung.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaNguoiDung.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\SuaNguoiDung.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaNguoiDung.aspx",
+              "RelativeToolTip": "WebAdmin\\SuaNguoiDung.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:12:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuaDanhmuc.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaDanhmuc.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\SuaDanhmuc.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaDanhmuc.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\SuaDanhmuc.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAyszMzMwMwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:11:42.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SuaDanhmuc.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaDanhmuc.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\SuaDanhmuc.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\SuaDanhmuc.aspx",
+              "RelativeToolTip": "WebAdmin\\SuaDanhmuc.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:09:39.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThemDanhmuc.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemDanhmuc.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\ThemDanhmuc.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\ThemDanhmuc.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\ThemDanhmuc.aspx.cs",
+              "ViewState": "AQIAAAEAAABAmJmZmRkcwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:08:18.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WFQLTrangchu.aspx.cs",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLTrangchu.aspx.cs",
+              "RelativeDocumentMoniker": "WebAdmin\\WFQLTrangchu.aspx.cs",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLTrangchu.aspx.cs",
+              "RelativeToolTip": "WebAdmin\\WFQLTrangchu.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:03:05.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WFQLTrangchu.aspx",
+              "DocumentMoniker": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLTrangchu.aspx",
+              "RelativeDocumentMoniker": "WebAdmin\\WFQLTrangchu.aspx",
+              "ToolTip": "D:\\N\u0102M 3 (HK2)\\L\u1EACP TR\u00CCNH WEB ASPX\\QuanLySach\\QuanLySach\\QuanLySach\\WebAdmin\\WFQLTrangchu.aspx",
+              "RelativeToolTip": "WebAdmin\\WFQLTrangchu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-31T04:02:47.638Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 444,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
